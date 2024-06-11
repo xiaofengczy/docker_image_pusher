@@ -3,4 +3,5 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:7.4-rc1-alpine3.20
+mysql:latest
 
