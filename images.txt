@@ -1,3 +1,10 @@
 calico/cni:v3.25.0
 calico/kube-controllers:v3.25.0
 calico/node:v3.25.0
+kube-apiserver:v1.21.0
+kube-proxy:v1.21.0
+kube-controller-manager:v1.21.0
+kube-scheduler:v1.21.0
+coredns:v1.8.0
+etcd:3.4.13-0
+pause:3.4.1
